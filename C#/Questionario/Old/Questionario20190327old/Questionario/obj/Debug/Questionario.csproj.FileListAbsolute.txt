@@ -1,0 +1,10 @@
+C:\Users\Aluno\Desktop\Questionario\Questionario\bin\Debug\Questionario.exe.config
+C:\Users\Aluno\Desktop\Questionario\Questionario\bin\Debug\Questionario.exe
+C:\Users\Aluno\Desktop\Questionario\Questionario\bin\Debug\Questionario.pdb
+C:\Users\Aluno\Desktop\Questionario\Questionario\obj\Debug\Questionario.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Questionario\Questionario\obj\Debug\Questionario.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Questionario\Questionario\obj\Debug\Questionario.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\Questionario\Questionario\obj\Debug\Questionario.exe
+C:\Users\Aluno\Desktop\Questionario\Questionario\obj\Debug\Questionario.pdb
+C:\Users\Aluno\Desktop\Questionario\Questionario\obj\Debug\Questionario.Inicio.resources
+C:\Users\Aluno\Desktop\Questionario\Questionario\obj\Debug\Questionario.rac_log.resources

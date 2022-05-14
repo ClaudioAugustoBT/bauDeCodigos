@@ -1,0 +1,21 @@
+Monstros de Bolso
+==================
+
+Criar dispositivo (monstrodex) para cadastrar monstros de bolso, contendo os seguintes campos:
+
+numero, tipo1, tipo2, hp, atk, def, spAtck. spDef, Speed
+
+O Monstrodex deverá contemplar o CRUD completo para os mosntros de bolso, splash screen e DataGrid com os monstros cadastrados.
+
+
+Site:
+1) bulbapedia
+2)https://pokemondb.net/pokedex/shiny
+
+NORMAL, FIRE, WATER, ELECTRIC, GRASS, ICE, FIGHTING, POISON, GROUND, FLYING, PSYCHIC, BUG, ROCK, GHOST, DRAGON, DARK, STEEL, FAIRY
+
+select cd_poke as NUMERO, nm_poke as NOME, t.nm_tipo as tipo1, t2.nm_tipo as tipo2
+	from tb_poke as p inner join tb_tipo as t
+		on t.cd_tipo = p.cd_tipo1
+			inner join tb_tipo as t2
+				on t2.cd_tipo = p.cd_tipo2;
