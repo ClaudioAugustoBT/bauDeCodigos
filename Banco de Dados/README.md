@@ -12,11 +12,11 @@ Conteúdo:
   <li>:file_folder: MER</li>
     <ul>:bookmark_tabs:Modelos entidade relacionamento</ul>
   <li>:file_folder: Functions</li>
-    <ul>:bookmark_tabs: Functions para bandos de dados MySQL</ul>
+    <ul>:bookmark_tabs: Functions para banco de dados MySQL</ul>
   <li>:file_folder: Procedures</li>
-    <ul>:bookmark_tabs: Procedures para bandos de dados MySQL</ul>
+    <ul>:bookmark_tabs: Procedures para banco de dados MySQL</ul>
   <li>:file_folder: Scripts</li>
-    <ul>:bookmark_tabs: Script de criação de bandos de dados MySQL e selects</ul>
+    <ul>:bookmark_tabs: Script de criação de banco de dados MySQL e selects</ul>
 </ul>
 
 <h4><a href="https://github.com/ClaudioAugustoBT">Claudio Augusto Brassachio Tenreiro</a></h4>
